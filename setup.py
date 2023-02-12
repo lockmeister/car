@@ -1,0 +1,10 @@
+from setuptools import setup, find_packages
+
+setup(
+    name='<car_details>',
+    version='<0.1>',
+    description='<car details>',
+    author='<locky>',
+    packages=find_packages(),
+    install_requires=[]
+)
