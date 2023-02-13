@@ -1,10 +1,16 @@
-from setuptools import setup, find_packages
+[tool.poetry]
+name = "<car_details>"
+version = "<0.1>"
+description = "<car details>"
+authors = [
+    {
+        "name": "<locky>"
+    }
+]
 
-setup(
-    name='<car_details>',
-    version='<0.1>',
-    description='<car details>',
-    author='<locky>',
-    packages=find_packages(),
-    install_requires=[]
-)
+[tool.poetry.dependencies]
+python_version = "^3.6"
+
+
+
+[tool.poetry.dev-dependencies]
