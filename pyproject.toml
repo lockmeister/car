@@ -4,7 +4,7 @@ version = "<0.1>"
 description = "<car details>"
 authors = [
     {
-        "name": "<locky>",
+        "name": "<locky>"
     }
 ]
 
